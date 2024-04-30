@@ -6,8 +6,8 @@ De badge is gebouwd rond de **Espressif [ESP32-S3-WROOM-1-N16R8](Datasheets/esp3
 - 16MB flash 
 - 8MB PSRAM. 
 - De [ESP32-S3](Datasheets/esp32-s3_datasheet_en.pdf) dual-core Xtensa LX7 microcontroller (geklokt aan 240MHz)
-- Wi-Fi (via de ESP32)
-- Bluetooth 5 (via de ESP32
+- Wi-Fi (via de ESP32-S3)
+- Bluetooth 5 (via de ESP32-S3)
 
 Omdat deze microcontroller zelf een USB interface heeft is er geen nood meer om een USB serial brug te voorzien zoals op de [badge van 2022]( https://github.com/Fri3dCamp/badge-2020) en de [badge van 2018]( https://github.com/Fri3dCamp/badge). 
 
