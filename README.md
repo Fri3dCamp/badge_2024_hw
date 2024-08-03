@@ -15,7 +15,7 @@ We hebben de badge ook uitgerust met:
 
 - [6-assige IMU van Würth Elektronik](Datasheets/Wurth-WSEN-ISDS.pdf)
 - buzzer
-- veel knoppen
+- veel drukknoppen
 - joystick
 - microSD kaart lezer
 - een prachtige [2” IPS LCD met afgeronde hoeken](Datasheets/QT020JA001-A0_SPEC.pdf).
@@ -33,6 +33,8 @@ We hebben plek voorzien voor een [SAO header]( https://hackaday.com/2019/03/20/i
 ![Badge 2024 00 Front](Media/Badge_Front.png)
 
 ![Badge 2024 00 Back](Media/Badge_Back.png)
+
+Voor de liefhebbers heeft Yvan Barbaix ook een 3D model gemaakt om de joystick wat gebruiksvriendelijker te maken. Deze kan je terugvinden in de `3D` map.
 
 # Badge 2024 hardware (EN)
 This repository contains the hardware design and production files for the [Fri3d Camp](https://fri3d.be/en/) 2024 badge.
